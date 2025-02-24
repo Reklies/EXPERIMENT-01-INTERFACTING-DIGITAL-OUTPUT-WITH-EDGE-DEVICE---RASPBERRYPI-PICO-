@@ -88,7 +88,8 @@ while True:
 ![Screenshot 2025-02-24 104812](https://github.com/user-attachments/assets/c042048f-e48a-43d5-a4eb-11fda7de4c0a)
 
 ### 3.
-![Uploading Screenshot 2025-02-24 113025.png…]()
+![Screenshot 2025-02-24 113025](https://github.com/user-attachments/assets/79cae738-61e7-45e7-9467-2c4cb43e52c0)
+
 
 
 ## RESULTS
