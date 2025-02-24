@@ -82,7 +82,8 @@ while True:
 ```
 ## OUPUT 
 ### 1. 
-![Screenshot 2025-02-24 103935](https://github.com/user-attachments/assets/5e021560-f585-4fba-8df5-8a7489dad22d)
+![Screenshot 2025-02-24 113946](https://github.com/user-attachments/assets/8b80631e-49e5-4015-a37f-4dc6d5d664bc)
+
 
 ### 2.
 ![Screenshot 2025-02-24 113521](https://github.com/user-attachments/assets/8fd63575-f521-49df-9c0d-f88cb9bdbf0b)
